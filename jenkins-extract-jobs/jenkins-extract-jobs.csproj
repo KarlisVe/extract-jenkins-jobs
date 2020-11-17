@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>jenkins_extract_jobs</RootNamespace>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+
+</Project>

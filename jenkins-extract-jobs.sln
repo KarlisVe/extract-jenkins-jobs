@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jenkins-extract-jobs", "jenkins-extract-jobs\jenkins-extract-jobs.csproj", "{CFCF2B83-FC14-4BFC-80EB-935190EE6FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFCF2B83-FC14-4BFC-80EB-935190EE6FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCF2B83-FC14-4BFC-80EB-935190EE6FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCF2B83-FC14-4BFC-80EB-935190EE6FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCF2B83-FC14-4BFC-80EB-935190EE6FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
